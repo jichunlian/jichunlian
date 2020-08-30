@@ -1,4 +1,4 @@
-### Hi there, I'm Ji-Chun Lian 👋
+### Hi there 👋 I'm Ji-Chun Lian
 
 <!--
 **jichunlian/jichunlian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
